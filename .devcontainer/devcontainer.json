@@ -17,7 +17,8 @@
 				"vscode-icons-team.vscode-icons",
 				"eamodio.gitlens",
 				"bierner.github-markdown-preview",
-				"ms-vscode.cpptools-themes"
+				"ms-vscode.cpptools-themes",
+				"ms-python.python"
 			]
 		}
 	}
