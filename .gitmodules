@@ -1,0 +1,9 @@
+[submodule "ostep-code"]
+	path = ostep-code
+	url = git@github.com:remzi-arpacidusseau/ostep-code.git
+[submodule "ostep-homework"]
+	path = ostep-homework
+	url = git@github.com:remzi-arpacidusseau/ostep-homework.git
+[submodule "ostep-projects"]
+	path = ostep-projects
+	url = git@github.com:remzi-arpacidusseau/ostep-projects.git
